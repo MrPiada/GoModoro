@@ -1,0 +1,2 @@
+# GoModoro
+Pomodoro timer application
